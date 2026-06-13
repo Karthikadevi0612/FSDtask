@@ -17,7 +17,7 @@ nav a{
 
 @media (min-width:768px){
     nav{
-        flex-direction: row;
+        flex-direction: column;
         gap: 30px;
     }
 
