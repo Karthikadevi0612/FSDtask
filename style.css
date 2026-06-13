@@ -1,4 +1,9 @@
-
+body{
+    background-color: rgb(231, 181, 213); /* Pale Lavender */
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
 nav{
     display: flex;
     flex-direction: column;
